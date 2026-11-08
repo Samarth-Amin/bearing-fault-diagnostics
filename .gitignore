@@ -1,0 +1,16 @@
+# R environment files
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Raw big data files (download separately from CWRU)
+*.mat
+*.zip
+*.tar.gz
+
+# Python & OS artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
